@@ -1,6 +1,8 @@
+<div align="center">
+
 ### Hi there! I'm Dong Min 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=2000&pause=500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=535&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%98%81;JEDU+%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=2000&pause=1000&color=697CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=535&height=200&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%A0%80%EC%9D%98+Github%EB%A5%BC+%EB%B0%A9%EB%AC%B8%ED%95%B4+%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+</div>
