@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there! I'm Dong Min 👋
+### 👋 Hi there! I'm Dong Min 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=2000&pause=1000&color=697CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=535&height=200&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%A0%80%EC%9D%98+Github%EB%A5%BC+%EB%B0%A9%EB%AC%B8%ED%95%B4+%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
